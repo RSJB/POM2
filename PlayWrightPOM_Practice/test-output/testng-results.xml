@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8699" started-at="2022-07-06T15:20:04 IST" finished-at="2022-07-06T15:20:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8699" started-at="2022-07-06T15:20:04 IST" finished-at="2022-07-06T15:20:12 IST">
+      <class name="com.qa.opencart.text.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="SetUp" is-config="true" duration-ms="6090" started-at="2022-07-06T15:20:04 IST" finished-at="2022-07-06T15:20:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="GetPageTitle()[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="GetPageTitle" duration-ms="19" started-at="2022-07-06T15:20:10 IST" finished-at="2022-07-06T15:20:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPageTitle -->
+        <test-method status="PASS" signature="GetPageUrl()[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="GetPageUrl" duration-ms="0" started-at="2022-07-06T15:20:10 IST" finished-at="2022-07-06T15:20:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPageUrl -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="SearchTest" duration-ms="549" started-at="2022-07-06T15:20:10 IST" data-provider="GetProductDataPr" finished-at="2022-07-06T15:20:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[macbook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="SearchTest" duration-ms="608" started-at="2022-07-06T15:20:10 IST" data-provider="GetProductDataPr" finished-at="2022-07-06T15:20:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="SearchTest" duration-ms="513" started-at="2022-07-06T15:20:11 IST" data-provider="GetProductDataPr" finished-at="2022-07-06T15:20:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String)[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="SearchTest" duration-ms="511" started-at="2022-07-06T15:20:11 IST" data-provider="GetProductDataPr" finished-at="2022-07-06T15:20:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Canon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.opencart.text.HomePageTest@33c7e1bb]" name="TearDown" is-config="true" duration-ms="338" started-at="2022-07-06T15:20:12 IST" finished-at="2022-07-06T15:20:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.opencart.text.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
